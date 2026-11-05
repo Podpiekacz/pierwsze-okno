@@ -9,11 +9,11 @@
         Height="450"
         WindowStartupLocation="CenterScreen">
     
-        
-    Mala ultro adsunt.
+    <TextBlock Text="Mala ultro adsunt.
     Misfortune comes uninvited.
     It hungers for blood craving eternal darkness.
     My time to repent is over.
     I will take up arms again.
-    Step out of shadow and teach them true Darkness.
+    Step out of shadow and teach them true Darkness."/>
+    
 </Window>
