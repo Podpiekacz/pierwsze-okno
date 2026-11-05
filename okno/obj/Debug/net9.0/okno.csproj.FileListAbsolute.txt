@@ -89,3 +89,4 @@ C:\Users\Wojciech Pawałowski\Documents\Zadania\pierwsze-okno\okno\obj\Debug\net
 C:\Users\Wojciech Pawałowski\Documents\Zadania\pierwsze-okno\okno\obj\Debug\net9.0\okno.pdb
 C:\Users\Wojciech Pawałowski\Documents\Zadania\pierwsze-okno\okno\obj\Debug\net9.0\okno.genruntimeconfig.cache
 C:\Users\Wojciech Pawałowski\Documents\Zadania\pierwsze-okno\okno\obj\Debug\net9.0\ref\okno.dll
+C:\Users\Wojciech Pawałowski\Documents\Zadania\pierwsze-okno\okno\obj\Debug\net9.0\okno.sourcelink.json
