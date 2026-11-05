@@ -9,7 +9,7 @@
         Height="450"
         WindowStartupLocation="CenterScreen">
     
-    <TextBlock Background="#FFF3C4" Foreground="#C05621" FontSize="32" FontWeight="Bold" FontStyle="Italic" Text="Mala ultro adsunt.
+    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Background="#FFF3C4" Foreground="#C05621" FontSize="32" FontWeight="Bold" FontStyle="Italic" Text="Mala ultro adsunt.
     Misfortune comes uninvited.
     It hungers for blood craving eternal darkness.
     My time to repent is over.
